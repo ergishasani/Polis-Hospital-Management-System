@@ -164,10 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or issues, please contact:
 
-- **Email**:
+- **Linkedin**: [Ergis Hasani](https://www.linkedin.com/in/ergis-hasani-bb9ba0174/)
+- **Linkedin**: [Hysnie Likaj](https://www.linkedin.com/in/hysnie-likaj-140261280/)
 - **GitHub**: [Ergis Hasani](https://github.com/ergishasani/polis-hospital-management)
 - **GitHub**: [Hysnie Likaj](https://github.com/nia-likaj/polis-hospital-management)
-
----
-
-Just copy everything above and paste it into your `README.md` file. Make sure to replace `your-username` with your actual GitHub username and update any specific details for your project!
