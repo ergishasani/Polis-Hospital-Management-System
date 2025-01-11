@@ -41,7 +41,7 @@ Follow the steps below to set up the Hospital Management System on your local ma
 
 ### 1. **Clone the Repository**
 
-````bash
+````
 git clone https://github.com/ergishasani/polis-hospital-management.git
 cd polis-hospital-management
 
@@ -65,13 +65,13 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQL5InnoDBDialect
 
 If you're using **Maven**:
 
-```bash
+```
 mvn clean install
 ```
 
 Or **Gradle**:
 
-```bash
+``` 
 gradle build
 ```
 
@@ -79,13 +79,13 @@ gradle build
 
 Start the Spring Boot application:
 
-```bash
+``` 
 mvn spring-boot:run
 ```
 
 Or if you're using Gradle:
 
-```bash
+``` 
 gradle bootRun
 ```
 
@@ -130,13 +130,13 @@ Unit tests are written for the core services and repositories. To run the tests:
 
 ### 1. **Using Maven**:
 
-```bash
+``` 
 mvn test
 ```
 
 ### 2. **Using Gradle**:
 
-```bash
+``` 
 gradle test
 ```
 
