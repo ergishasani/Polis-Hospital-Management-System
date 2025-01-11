@@ -170,6 +170,4 @@ For any inquiries or issues, please contact:
 
 ---
 
----
-
 Just copy everything above and paste it into your `README.md` file. Make sure to replace `your-username` with your actual GitHub username and update any specific details for your project!
