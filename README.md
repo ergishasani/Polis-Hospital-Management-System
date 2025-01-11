@@ -53,7 +53,7 @@ cd polis-hospital-management
 
 Example (MySQL):
 
-```properties
+```
 spring.datasource.url=jdbc:mysql://localhost:3306/hospital_db
 spring.datasource.username=root
 spring.datasource.password=password
