@@ -1,4 +1,3 @@
-````
 # Polis Hospital Management System
 
 ## Project Overview
@@ -6,6 +5,7 @@
 The **Polis Hospital Management System** is a backend application designed to manage departments, patients, admissions, clinical records, and error management for a hospital. Built using **Java Spring Boot**, this system utilizes a **relational database** (MySQL/PostgreSQL) to store and manage data related to hospital operations.
 
 The system supports various features such as:
+
 - Managing departments.
 - Managing patients, including their admission and discharge details.
 - Maintaining clinical records for patients.
@@ -41,10 +41,10 @@ Follow the steps below to set up the Hospital Management System on your local ma
 
 ### 1. **Clone the Repository**
 
-```bash
+````bash
 git clone https://github.com/ergishasani/polis-hospital-management.git
 cd polis-hospital-management
-````
+
 
 ### 2. **Setup Database**
 
@@ -59,7 +59,7 @@ spring.datasource.username=root
 spring.datasource.password=password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.database-platform=org.hibernate.dialect.MySQL5InnoDBDialect
-```
+````
 
 ### 3. **Build the Project**
 
@@ -173,7 +173,3 @@ For any inquiries or issues, please contact:
 ---
 
 Just copy everything above and paste it into your `README.md` file. Make sure to replace `your-username` with your actual GitHub username and update any specific details for your project!
-
-```
-
-```
